@@ -2,7 +2,7 @@
 
 #### Abstract
 
-Through Vision Zero, the authorities take responsibility for fatal crashes, knowing that they are preventable, and implementing policies and measures to prevent them. In this project, a logistic regression model is trained on data from the 2016 Persons table in National Highway Traffic Safety Administration's Fatalities data, available in BigQuery public data. The model identifies lack of wearing seatbelts, crashes in which motorcycles were involved, and not being an occupant of the vehicle as the top features characterizing fatal crashes. It indicates that enforcement and increase in safety measures for motorcyclists and other vulnerable road users would help prevent fatalities and severe injuries in road crashes.
+A logistic regression model is trained on data from the 2016 Persons table in National Highway Traffic Safety Administration's Fatalities data, available in BigQuery public data. The model identifies lack of wearing seatbelts, crashes in which motorcycles were involved, and not being an occupant of the vehicle as the top features characterizing fatal crashes. It indicates that enforcement and increase in safety measures for motorcyclists and other vulnerable road users would help prevent fatalities and severe injuries in road crashes.
 
 #### Design
 
